@@ -1,1 +1,1 @@
-# kendall-server
+# kennelsl-server
