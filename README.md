@@ -1,1 +1,1 @@
-# kennelsl-server
+# kennels-server
